@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(192, 159, 117);
+    color: rgb(8, 4, 34);
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Work Sans", sans-serif;
+}
+
+h1 {
+    font-size: 72px;
+    line-height: 90%;
+    text-transform: uppercase;
+}
